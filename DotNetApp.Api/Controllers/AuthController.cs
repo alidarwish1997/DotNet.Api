@@ -1,7 +1,6 @@
 ﻿using DotNetApp.Api.Data;
 using DotNetApp.Api.DTOs;
 using DotNetApp.Api.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
